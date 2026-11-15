@@ -1,0 +1,12 @@
+[project]
+name = "splat_color_grade"
+version = "0.3.0"
+description = "Color grading for selected Gaussians"
+authors = [{name = "Lea Kubicek"}]
+dependencies = []
+
+[tool.lichtfeld]
+hot_reload = true
+plugin_api = ">=1,<2"
+lichtfeld_version = ">=0.4.2"
+required_features = []
